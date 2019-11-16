@@ -14,3 +14,5 @@
  | bootstrap-reboot.css | bootstrap-rebot.min.css |
  | bootstrap.bundle.js | bootstrap.bundle.min.js |
  | bootstrap.js | bootstrap.min.js |
+ 
+ [![](https://data.jsdelivr.com/v1/package/gh/fl3xice/crayonspack/badge)](https://www.jsdelivr.com/package/gh/fl3xice/crayonspack)
